@@ -1,6 +1,7 @@
-# Flutter Task for joining MUNSoc
+# Flutter Task
 
 ![Build CI](https://github.com/munsoc-mpstme/flutter_task/workflows/Build%20CI/badge.svg)
+
 Thanks for showing your interest in joining MUNSoc Tech! To test your Flutter and Git skills, we have a simple challenge for you - _fix the broken app!_
 
 ### Instructions
@@ -18,3 +19,5 @@ Thanks for showing your interest in joining MUNSoc Tech! To test your Flutter an
 **NOTE #2:** if you don't have Flutter/Git installed, no need to waste time installing it. You can use [Dartpad](https://dartpad.dev/flutter) on the web and copy-paste the fixed code directly in GitHub by [editing](https://github.com/login?return_to=%2Fmunsoc-mpstme%2Fflutter_task%2Fblob%2Fmaster%2Flib%2Fmain.dart) the `main.dart` file and then sending the PR.
 
 **NOTE #3:** if you have genuine problems, feel free to reach out to us. But remember - this is a _test_, so don't ask us for direct help!
+
+We will be judging you based on a number of parameters, so try as much as you can - it's okay even if the code isn't completely perfect. All the very best!!
